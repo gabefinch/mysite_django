@@ -1,4 +1,4 @@
-mysite_django
+Django Tutorial Site
 =============
 
-Django instance from beginning tutorial
+Django site built out from the Django site tutorials.
